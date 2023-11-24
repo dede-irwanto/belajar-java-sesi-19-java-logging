@@ -1,0 +1,133 @@
+01:37:00.074 [main] TRACE p.zaman.now.logging.LevelTest - Trace
+01:37:00.077 [main] DEBUG p.zaman.now.logging.LevelTest - Debug
+01:37:00.078 [main] INFO  p.zaman.now.logging.LevelTest - Info
+01:37:00.079 [main] WARN  p.zaman.now.logging.LevelTest - Warn
+01:37:00.080 [main] ERROR p.zaman.now.logging.LevelTest - Error
+01:37:18.934 [main] TRACE p.zaman.now.logging.LevelTest - Trace
+01:37:18.948 [main] DEBUG p.zaman.now.logging.LevelTest - Debug
+01:37:18.948 [main] INFO  p.zaman.now.logging.LevelTest - Info
+01:37:18.950 [main] WARN  p.zaman.now.logging.LevelTest - Warn
+01:37:18.950 [main] ERROR p.zaman.now.logging.LevelTest - Error
+01:39:10.479 [main] TRACE p.zaman.now.logging.LevelTest - Trace
+01:39:10.482 [main] DEBUG p.zaman.now.logging.LevelTest - Debug
+01:39:10.482 [main] INFO  p.zaman.now.logging.LevelTest - Info
+01:39:10.484 [main] WARN  p.zaman.now.logging.LevelTest - Warn
+01:39:10.484 [main] ERROR p.zaman.now.logging.LevelTest - Error
+01:39:26.732 [main] TRACE p.zaman.now.logging.LevelTest - Trace
+01:39:26.736 [main] DEBUG p.zaman.now.logging.LevelTest - Debug
+01:39:26.736 [main] INFO  p.zaman.now.logging.LevelTest - Info
+01:39:26.738 [main] WARN  p.zaman.now.logging.LevelTest - Warn
+01:39:26.738 [main] ERROR p.zaman.now.logging.LevelTest - Error
+2023-11-24 01:41:14.421 [main] TRACE p.zaman.now.logging.LevelTest - Trace
+2023-11-24 01:41:14.424 [main] DEBUG p.zaman.now.logging.LevelTest - Debug
+2023-11-24 01:41:14.425 [main] INFO  p.zaman.now.logging.LevelTest - Info
+2023-11-24 01:41:14.427 [main] WARN  p.zaman.now.logging.LevelTest - Warn
+2023-11-24 01:41:14.427 [main] ERROR p.zaman.now.logging.LevelTest - Error
+2023-11-24 22:02:10.554 [main] INFO  p.zaman.now.logging.MyController - 912c038f-3e16-4fdf-b623-397c85586375 - Controller Save
+2023-11-24 22:02:10.570 [main] INFO  p.zaman.now.logging.MyService - 912c038f-3e16-4fdf-b623-397c85586375 - Service Save
+2023-11-24 22:02:10.571 [main] INFO  p.zaman.now.logging.MyRepository - 912c038f-3e16-4fdf-b623-397c85586375 - Repository Save
+2023-11-24 22:06:08.125 [main] INFO  p.zaman.now.logging.MyController - [] - f11e557b-a76f-4d74-aec4-d0d11dff0c50 - Controller Save
+2023-11-24 22:06:08.136 [main] INFO  p.zaman.now.logging.MyService - [] - f11e557b-a76f-4d74-aec4-d0d11dff0c50 - Service Save
+2023-11-24 22:06:08.137 [main] INFO  p.zaman.now.logging.MyRepository - [] - f11e557b-a76f-4d74-aec4-d0d11dff0c50 - Repository Save
+2023-11-24 22:07:15.290 [main] INFO  p.zaman.now.logging.MyController - [] - 9e86e8e3-ab86-4d59-8a9e-ee204b23ec03 - Controller Save
+2023-11-24 22:07:15.298 [main] INFO  p.zaman.now.logging.MyService - [] - 9e86e8e3-ab86-4d59-8a9e-ee204b23ec03 - Service Save
+2023-11-24 22:07:15.299 [main] INFO  p.zaman.now.logging.MyRepository - [] - 9e86e8e3-ab86-4d59-8a9e-ee204b23ec03 - Repository Save
+2023-11-24 22:08:30.461 [main] INFO  p.zaman.now.logging.MyController - [] - 1d880d90-546a-4f91-b7da-e0c95050df44 - Controller Save
+2023-11-24 22:08:30.470 [main] INFO  p.zaman.now.logging.MyService - [] - 1d880d90-546a-4f91-b7da-e0c95050df44 - Service Save
+2023-11-24 22:08:30.471 [main] INFO  p.zaman.now.logging.MyRepository - [] - 1d880d90-546a-4f91-b7da-e0c95050df44 - Repository Save
+2023-11-24 22:09:27.327 [main] INFO  p.zaman.now.logging.MyController - [] - 9447081a-bdc2-4eee-a0ec-cddbb2ab9bb9 - Controller Save
+2023-11-24 22:09:27.337 [main] INFO  p.zaman.now.logging.MyService - [] - 9447081a-bdc2-4eee-a0ec-cddbb2ab9bb9 - Service Save
+2023-11-24 22:09:27.338 [main] INFO  p.zaman.now.logging.MyRepository - [] - 9447081a-bdc2-4eee-a0ec-cddbb2ab9bb9 - Repository Save
+2023-11-24 22:12:15.400 [main] INFO  p.zaman.now.logging.MyController - [] - 46085146-d27e-4402-a8de-3cdc59b24d95 - Controller Save
+2023-11-24 22:12:15.409 [main] INFO  p.zaman.now.logging.MyService - [] - 46085146-d27e-4402-a8de-3cdc59b24d95 - Service Save
+2023-11-24 22:12:15.410 [main] INFO  p.zaman.now.logging.MyRepository - [] - 46085146-d27e-4402-a8de-3cdc59b24d95 - Repository Save
+2023-11-24 22:15:09.038 [main] INFO  p.zaman.now.logging.MyController - [926369b3-a491-4114-b694-bc7e6c2cb4c7] - 926369b3-a491-4114-b694-bc7e6c2cb4c7 - Controller Save
+2023-11-24 22:15:09.047 [main] INFO  p.zaman.now.logging.MyService - [926369b3-a491-4114-b694-bc7e6c2cb4c7] - 926369b3-a491-4114-b694-bc7e6c2cb4c7 - Service Save
+2023-11-24 22:15:09.048 [main] INFO  p.zaman.now.logging.MyRepository - [926369b3-a491-4114-b694-bc7e6c2cb4c7] - 926369b3-a491-4114-b694-bc7e6c2cb4c7 - Repository Save
+2023-11-24 22:18:16.456 [main] INFO  p.zaman.now.logging.MyController - [f53718c1-29ec-452d-af9b-5e4a20efbd0e] - Controller Save
+2023-11-24 22:18:16.461 [main] INFO  p.zaman.now.logging.MyService - [f53718c1-29ec-452d-af9b-5e4a20efbd0e] - Service Save
+2023-11-24 22:18:16.462 [main] INFO  p.zaman.now.logging.MyRepository - [f53718c1-29ec-452d-af9b-5e4a20efbd0e] - Repository Save
+2023-11-24 22:23:06.240 [Thread-0] INFO  p.zaman.now.logging.MyController - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Controller Save
+2023-11-24 22:23:06.246 [Thread-0] INFO  p.zaman.now.logging.MyService - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Service Save
+2023-11-24 22:23:06.247 [Thread-0] INFO  p.zaman.now.logging.MyRepository - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Repository Save
+2023-11-24 22:23:07.242 [Thread-1] INFO  p.zaman.now.logging.MyController - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Controller Save
+2023-11-24 22:23:07.243 [Thread-1] INFO  p.zaman.now.logging.MyService - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Service Save
+2023-11-24 22:23:07.244 [Thread-1] INFO  p.zaman.now.logging.MyRepository - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Repository Save
+2023-11-24 22:23:08.255 [Thread-2] INFO  p.zaman.now.logging.MyController - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Controller Save
+2023-11-24 22:23:08.256 [Thread-2] INFO  p.zaman.now.logging.MyService - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Service Save
+2023-11-24 22:23:08.257 [Thread-2] INFO  p.zaman.now.logging.MyRepository - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Repository Save
+2023-11-24 22:23:09.269 [Thread-3] INFO  p.zaman.now.logging.MyController - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Controller Save
+2023-11-24 22:23:09.270 [Thread-3] INFO  p.zaman.now.logging.MyService - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Service Save
+2023-11-24 22:23:09.270 [Thread-3] INFO  p.zaman.now.logging.MyRepository - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Repository Save
+2023-11-24 22:23:10.280 [Thread-4] INFO  p.zaman.now.logging.MyController - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Controller Save
+2023-11-24 22:23:10.282 [Thread-4] INFO  p.zaman.now.logging.MyService - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Service Save
+2023-11-24 22:23:10.283 [Thread-4] INFO  p.zaman.now.logging.MyRepository - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Repository Save
+2023-11-24 22:23:11.291 [Thread-5] INFO  p.zaman.now.logging.MyController - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Controller Save
+2023-11-24 22:23:11.291 [Thread-5] INFO  p.zaman.now.logging.MyService - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Service Save
+2023-11-24 22:23:11.292 [Thread-5] INFO  p.zaman.now.logging.MyRepository - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Repository Save
+2023-11-24 22:23:12.305 [Thread-6] INFO  p.zaman.now.logging.MyController - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Controller Save
+2023-11-24 22:23:12.307 [Thread-6] INFO  p.zaman.now.logging.MyService - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Service Save
+2023-11-24 22:23:12.307 [Thread-6] INFO  p.zaman.now.logging.MyRepository - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Repository Save
+2023-11-24 22:23:13.320 [Thread-7] INFO  p.zaman.now.logging.MyController - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Controller Save
+2023-11-24 22:23:13.322 [Thread-7] INFO  p.zaman.now.logging.MyService - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Service Save
+2023-11-24 22:23:13.323 [Thread-7] INFO  p.zaman.now.logging.MyRepository - [90baf25e-2a87-42cd-b385-afd7cb3007b1] - Repository Save
+2023-11-24 22:23:31.571 [Thread-0] INFO  p.zaman.now.logging.MyController - [556781a1-865c-4a9b-81eb-f18fb5a4cba9] - Controller Save
+2023-11-24 22:23:31.574 [Thread-0] INFO  p.zaman.now.logging.MyService - [556781a1-865c-4a9b-81eb-f18fb5a4cba9] - Service Save
+2023-11-24 22:23:31.575 [Thread-0] INFO  p.zaman.now.logging.MyRepository - [556781a1-865c-4a9b-81eb-f18fb5a4cba9] - Repository Save
+2023-11-24 22:23:32.578 [Thread-1] INFO  p.zaman.now.logging.MyController - [acd90b34-202a-49d9-b7b8-9197c9c6cd03] - Controller Save
+2023-11-24 22:23:32.579 [Thread-1] INFO  p.zaman.now.logging.MyService - [acd90b34-202a-49d9-b7b8-9197c9c6cd03] - Service Save
+2023-11-24 22:23:32.580 [Thread-1] INFO  p.zaman.now.logging.MyRepository - [acd90b34-202a-49d9-b7b8-9197c9c6cd03] - Repository Save
+2023-11-24 22:23:33.592 [Thread-2] INFO  p.zaman.now.logging.MyController - [bcb8d34b-bd62-406a-a4d9-70d8c2a9df08] - Controller Save
+2023-11-24 22:23:33.593 [Thread-2] INFO  p.zaman.now.logging.MyService - [bcb8d34b-bd62-406a-a4d9-70d8c2a9df08] - Service Save
+2023-11-24 22:23:33.593 [Thread-2] INFO  p.zaman.now.logging.MyRepository - [bcb8d34b-bd62-406a-a4d9-70d8c2a9df08] - Repository Save
+2023-11-24 22:23:34.601 [Thread-3] INFO  p.zaman.now.logging.MyController - [e4d43d0d-7efd-4dae-adbf-97f912a58871] - Controller Save
+2023-11-24 22:23:34.603 [Thread-3] INFO  p.zaman.now.logging.MyService - [e4d43d0d-7efd-4dae-adbf-97f912a58871] - Service Save
+2023-11-24 22:23:34.605 [Thread-3] INFO  p.zaman.now.logging.MyRepository - [e4d43d0d-7efd-4dae-adbf-97f912a58871] - Repository Save
+2023-11-24 22:23:35.617 [Thread-4] INFO  p.zaman.now.logging.MyController - [761908dc-a2e5-430f-b88e-719e62924475] - Controller Save
+2023-11-24 22:23:35.619 [Thread-4] INFO  p.zaman.now.logging.MyService - [761908dc-a2e5-430f-b88e-719e62924475] - Service Save
+2023-11-24 22:23:35.620 [Thread-4] INFO  p.zaman.now.logging.MyRepository - [761908dc-a2e5-430f-b88e-719e62924475] - Repository Save
+2023-11-24 22:23:36.628 [Thread-5] INFO  p.zaman.now.logging.MyController - [299f2bb4-1169-4877-a8ed-089662e9f62d] - Controller Save
+2023-11-24 22:23:36.629 [Thread-5] INFO  p.zaman.now.logging.MyService - [299f2bb4-1169-4877-a8ed-089662e9f62d] - Service Save
+2023-11-24 22:23:36.631 [Thread-5] INFO  p.zaman.now.logging.MyRepository - [299f2bb4-1169-4877-a8ed-089662e9f62d] - Repository Save
+2023-11-24 22:23:37.637 [Thread-6] INFO  p.zaman.now.logging.MyController - [633eacc9-102b-455c-aab7-861187d5c0f0] - Controller Save
+2023-11-24 22:23:37.638 [Thread-6] INFO  p.zaman.now.logging.MyService - [633eacc9-102b-455c-aab7-861187d5c0f0] - Service Save
+2023-11-24 22:23:37.639 [Thread-6] INFO  p.zaman.now.logging.MyRepository - [633eacc9-102b-455c-aab7-861187d5c0f0] - Repository Save
+2023-11-24 22:23:38.647 [Thread-7] INFO  p.zaman.now.logging.MyController - [a8433df2-91f1-444a-9f14-62777b71f8c8] - Controller Save
+2023-11-24 22:23:38.648 [Thread-7] INFO  p.zaman.now.logging.MyService - [a8433df2-91f1-444a-9f14-62777b71f8c8] - Service Save
+2023-11-24 22:23:38.649 [Thread-7] INFO  p.zaman.now.logging.MyRepository - [a8433df2-91f1-444a-9f14-62777b71f8c8] - Repository Save
+2023-11-24 22:23:39.650 [Thread-8] INFO  p.zaman.now.logging.MyController - [e7900daf-dd6d-4336-b210-4fdcad385716] - Controller Save
+2023-11-24 22:23:39.651 [Thread-8] INFO  p.zaman.now.logging.MyService - [e7900daf-dd6d-4336-b210-4fdcad385716] - Service Save
+2023-11-24 22:23:39.651 [Thread-8] INFO  p.zaman.now.logging.MyRepository - [e7900daf-dd6d-4336-b210-4fdcad385716] - Repository Save
+2023-11-24 22:23:40.658 [Thread-9] INFO  p.zaman.now.logging.MyController - [953b1008-c6b9-40f2-9101-333fdd6b727c] - Controller Save
+2023-11-24 22:23:40.659 [Thread-9] INFO  p.zaman.now.logging.MyService - [953b1008-c6b9-40f2-9101-333fdd6b727c] - Service Save
+2023-11-24 22:23:40.660 [Thread-9] INFO  p.zaman.now.logging.MyRepository - [953b1008-c6b9-40f2-9101-333fdd6b727c] - Repository Save
+2023-11-24 22:26:45.253 [Thread-0] INFO  p.zaman.now.logging.MyController - [b96498c5-e530-43c1-bb04-d565cef90ee0] - Controller Save
+2023-11-24 22:26:45.258 [Thread-0] INFO  p.zaman.now.logging.MyService - [b96498c5-e530-43c1-bb04-d565cef90ee0] - Service Save
+2023-11-24 22:26:45.259 [Thread-0] INFO  p.zaman.now.logging.MyRepository - [b96498c5-e530-43c1-bb04-d565cef90ee0] - Repository Save
+2023-11-24 22:26:46.108 [Thread-1] INFO  p.zaman.now.logging.MyController - [24d08dd2-9a8c-402f-aa25-3a59717142ae] - Controller Save
+2023-11-24 22:26:46.109 [Thread-1] INFO  p.zaman.now.logging.MyService - [24d08dd2-9a8c-402f-aa25-3a59717142ae] - Service Save
+2023-11-24 22:26:46.109 [Thread-1] INFO  p.zaman.now.logging.MyRepository - [24d08dd2-9a8c-402f-aa25-3a59717142ae] - Repository Save
+2023-11-24 22:26:47.124 [Thread-2] INFO  p.zaman.now.logging.MyController - [ccaac2cf-9f2e-4612-a9b6-af37274a4432] - Controller Save
+2023-11-24 22:26:47.125 [Thread-2] INFO  p.zaman.now.logging.MyService - [ccaac2cf-9f2e-4612-a9b6-af37274a4432] - Service Save
+2023-11-24 22:26:47.126 [Thread-2] INFO  p.zaman.now.logging.MyRepository - [ccaac2cf-9f2e-4612-a9b6-af37274a4432] - Repository Save
+2023-11-24 22:26:48.130 [Thread-3] INFO  p.zaman.now.logging.MyController - [54fcb9cf-2f74-4135-afb6-969b5b67db0e] - Controller Save
+2023-11-24 22:26:48.131 [Thread-3] INFO  p.zaman.now.logging.MyService - [54fcb9cf-2f74-4135-afb6-969b5b67db0e] - Service Save
+2023-11-24 22:26:48.132 [Thread-3] INFO  p.zaman.now.logging.MyRepository - [54fcb9cf-2f74-4135-afb6-969b5b67db0e] - Repository Save
+2023-11-24 22:26:49.139 [Thread-4] INFO  p.zaman.now.logging.MyController - [9ef71214-9cc0-418b-96e0-0e96f0cc226f] - Controller Save
+2023-11-24 22:26:49.141 [Thread-4] INFO  p.zaman.now.logging.MyService - [9ef71214-9cc0-418b-96e0-0e96f0cc226f] - Service Save
+2023-11-24 22:26:49.142 [Thread-4] INFO  p.zaman.now.logging.MyRepository - [9ef71214-9cc0-418b-96e0-0e96f0cc226f] - Repository Save
+2023-11-24 22:26:50.149 [Thread-5] INFO  p.zaman.now.logging.MyController - [83b00260-de7f-4041-978c-8b06bf6ccd23] - Controller Save
+2023-11-24 22:26:50.151 [Thread-5] INFO  p.zaman.now.logging.MyService - [83b00260-de7f-4041-978c-8b06bf6ccd23] - Service Save
+2023-11-24 22:26:50.153 [Thread-5] INFO  p.zaman.now.logging.MyRepository - [83b00260-de7f-4041-978c-8b06bf6ccd23] - Repository Save
+2023-11-24 22:26:51.150 [Thread-6] INFO  p.zaman.now.logging.MyController - [69249bbe-1711-467d-be88-2601c653fed8] - Controller Save
+2023-11-24 22:26:51.150 [Thread-6] INFO  p.zaman.now.logging.MyService - [69249bbe-1711-467d-be88-2601c653fed8] - Service Save
+2023-11-24 22:26:51.151 [Thread-6] INFO  p.zaman.now.logging.MyRepository - [69249bbe-1711-467d-be88-2601c653fed8] - Repository Save
+2023-11-24 22:26:52.161 [Thread-7] INFO  p.zaman.now.logging.MyController - [9cfb295d-1854-40ed-a986-4077b7ea2e45] - Controller Save
+2023-11-24 22:26:52.163 [Thread-7] INFO  p.zaman.now.logging.MyService - [9cfb295d-1854-40ed-a986-4077b7ea2e45] - Service Save
+2023-11-24 22:26:52.164 [Thread-7] INFO  p.zaman.now.logging.MyRepository - [9cfb295d-1854-40ed-a986-4077b7ea2e45] - Repository Save
+2023-11-24 22:26:53.172 [Thread-8] INFO  p.zaman.now.logging.MyController - [5a2d1f3e-bc98-4d20-9733-2fc796630b76] - Controller Save
+2023-11-24 22:26:53.173 [Thread-8] INFO  p.zaman.now.logging.MyService - [5a2d1f3e-bc98-4d20-9733-2fc796630b76] - Service Save
+2023-11-24 22:26:53.175 [Thread-8] INFO  p.zaman.now.logging.MyRepository - [5a2d1f3e-bc98-4d20-9733-2fc796630b76] - Repository Save
+2023-11-24 22:26:54.180 [Thread-9] INFO  p.zaman.now.logging.MyController - [81cc7e93-3156-4380-b45a-81206e346e70] - Controller Save
+2023-11-24 22:26:54.182 [Thread-9] INFO  p.zaman.now.logging.MyService - [81cc7e93-3156-4380-b45a-81206e346e70] - Service Save
+2023-11-24 22:26:54.183 [Thread-9] INFO  p.zaman.now.logging.MyRepository - [81cc7e93-3156-4380-b45a-81206e346e70] - Repository Save
